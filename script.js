@@ -37,7 +37,7 @@ console.log(5**4-9);
 console.log((("I".length + "Am".length) % "Iron".length) % "Man".length);
 
 // 4. 
-console.log("CAP" [0]);
+console.log("CAP" [1]);
 console.log("VISION"[0]);
 console.log("OKOYE"[4]);
 console.log("NICK FURY"[0]);
