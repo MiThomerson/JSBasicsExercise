@@ -11,6 +11,7 @@ console.log(23);
 
 // 4. 
 console.log(5%2);
+console.log(5%4);
 
 // 5. 
 console.log('I\'M MARY POPPINS, Y\'ALL!');
@@ -36,10 +37,16 @@ console.log(5**4-9);
 console.log((("I".length + "Am".length) % "Iron".length) % "Man".length);
 
 // 4. 
-names = "CAP VISION OKOYE NICK FURY GROOT DOCTOR STRANGE THOR STAR-LORD";
-for (let i = 0; i < names.length; i++) {
-    console.log(names[i]);
-}
+console.log("CAP" [0]);
+console.log("VISION"[0]);
+console.log("OKOYE"[4]);
+console.log("NICK FURY"[0]);
+console.log("GROOT"[0]);
+console.log("DOCTOR STRANGE"[13]);
+console.log("THOR"[3]);
+console.log("STAR-LORD"[0]);
+
+
 
 // 5. 
 m = 25
